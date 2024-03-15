@@ -2,6 +2,7 @@
 <p>My question to you is simple. Can you find my email?</p>
 
 - 🌱 Note this is not an OSINT challenge.
+- Are you looking at the correct place?
 
 <h3 align="left">Random Stuff:</h3>
 <p align="left">
